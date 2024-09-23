@@ -324,7 +324,7 @@
                     Swal.fire({
                        icon: 'success',
                        title:  'Success',
-                       text: 'Task deleted successfully.',,
+                       text: 'Task deleted successfully.',
                     });
                     // toastr.success('Task deleted successfully.', 'Success');
                 })
